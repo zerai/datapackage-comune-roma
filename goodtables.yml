@@ -3,8 +3,7 @@
 
 # validate all csv files without reference to the datapackages e.g.
 #
-files: 
-  - '*.csv'
+files: '*.csv'
 
 settings:
   error_limit: 10
@@ -18,7 +17,7 @@ settings:
 
 # validate datapackages
 
-datapackages:
+#datapackages:
 #   - incidenti-stradali/datapackage.json
 
 #   - countries-and-currencies/datapackage.json # causes internal error in Goodtables
