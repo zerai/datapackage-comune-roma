@@ -5,8 +5,9 @@
 #
 files: 
   - '*.csv'
-  settings:
-    error_limit: 10
+
+settings:
+  error_limit: 10
 
 # validate a mixture of csv files optionally with a tableschema, e.g.
 #
