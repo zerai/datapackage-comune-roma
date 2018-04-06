@@ -3,7 +3,8 @@
 
 # validate all csv files without reference to the datapackages e.g.
 #
-files: '*.csv'
+files: 
+  - '*.csv'
   settings:
     error_limit: 10
 
