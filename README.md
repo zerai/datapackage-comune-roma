@@ -1,5 +1,5 @@
 # Datapackage Comune Roma 
-[![goodtables.io](https://goodtables.io/badge/github/zerai/DatapackagesComuneDiRoma.svg)](https://goodtables.io/github/zerai/DatapackagesComuneDiRoma)
+[![goodtables.io](https://goodtables.io/badge/github/zerai/datapackage-comune-roma.svg)](https://goodtables.io/github/zerai/datapackage-comune-roma)
 
 
 
